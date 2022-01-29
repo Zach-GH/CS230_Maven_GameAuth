@@ -1,4 +1,4 @@
-# README
+# Project Thoughts
 
 This web application was made for my CS230 class using Maven. Following the PDF tutorials uploaded, I was supposed to fix certain pieces of the code, and then run the application according to the rubric uploaded as a PDF as well. Lastly, I wrote a reflection essay about my experience which is included in the repository as MeisnerJournalWeek4.docx
 
